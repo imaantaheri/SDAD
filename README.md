@@ -4,13 +4,13 @@ Distance-based anomaly detection of urban traffic data.
 This repository contains the code for SDAD (Spatiotemporal Distance-based Anomaly Detection) method for urban traffic flow (count) data.
 
 ## Requirements
+Implementation is done with Python 3.12.4 . 
 All the required libraries with their specific versions are mentioned here:
 
 ```
-pip install pandas == 1.5.2
-pip install numpy == 1.24.1
-pip install scikit-learn == 1.2.0
-pip install pyod == 1.0.7
+pip install numpy == 1.26.4
+pip install pandas == 2.2.2
+pip install scikit-learn == 1.5.0
 ```
 
 ## Implementation
