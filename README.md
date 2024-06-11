@@ -30,3 +30,7 @@ For *SDAD-No-Graph* (constant universal thresholds) another python file is provi
 It applies all the possible final thresholds to anomaly scores of data and reports the best results in the end. 
 The number of nearest neighbors to consider can also be specified at the begining of this code. 
 The final performance metrics from `constant.py` will be stored in the `constant_results` folder.
+
+
+The `extra_tools.py` also contains a number of functions being used in previously mentioned cdoes. 
+Seperate execution of this file will not result in any specific output. 
