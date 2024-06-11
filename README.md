@@ -14,6 +14,10 @@ pip install scikit-learn == 1.5.0
 ```
 
 ## Implementation
-To run SDAD, this reporsitory needs to be cloned into a local machine. 
+To run SDAD and its alternatives follwoing steps should be taken:
 
-Then [AnoLT](https://github.com/imaantaheri/AnoLT) data should be also dowloaded and copied into the `data` folder.
+- Clone this reporsitory into a local machine. 
+- Download the [AnoLT](https://github.com/imaantaheri/AnoLT) dataset and copy it into the `data` folder of the cloned reporsitory.
+- To run the SDAD itself, the code in `main.py` file should be used.
+- The hyperparameters can be set at the begining of the code.
+-  
