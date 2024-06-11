@@ -27,3 +27,6 @@ There are two lines of code in this file that need to be removed in a specific w
 instructions are provided in the code with comments around these two lines. 
 
 For *SDAD-No-Graph* (constant universal thresholds) another python file is provided in this repository named `constant.py`. 
+It applies all the possible final thresholds to anomaly scores of data and reports the best results in the end. 
+The number of nearest neighbors to consider can also be specified at the begining of this code. 
+The final performance metrics from `constant.py` will be stored in the `constant_results` folder.
