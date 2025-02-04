@@ -1,5 +1,5 @@
 # SDAD
-Distance-based anomaly detection of urban traffic data.
+Distance-based anomaly detection of network-wide urban traffic volume data.
 
 This repository contains the code for *SDAD* (Spatiotemporal Distance-based Anomaly Detection) method for urban traffic flow (count) data.
 
